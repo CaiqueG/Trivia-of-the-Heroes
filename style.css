@@ -1,0 +1,88 @@
+body {
+  background-image: url('https://ibcdn.canaltech.com.br/uYthLoJeRarOFM_Kf-Gtc7TYZKA=/1400x788/smart/i275768.jpeg');
+  text-align: center;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-color: ;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.background {
+  width: 320;
+  height: 205;
+}
+
+#imagem-heroi {
+    width: 360px;
+    height: 320px;
+    overflow: auto;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    background-size: 350px 300px;
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    border-radius: 33px;
+}
+
+.b1 {
+   margin: 0px;
+  border: 0;
+  color: #ffffff;
+  background: #cc0000;
+  font-weight: bold;
+  padding: 10px 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 10rem;
+    max-width: 10rem;
+}
+
+
+.opcoes {
+    height: 50px;
+    margin: 1rem;
+    color: white;
+    z-index: 2;
+}
+
+.b2 {
+   margin: 10px;
+  border: 0;
+  color: #ffffff;
+  background: #cc0000;
+  font-weight: bold;
+  padding: 10px 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 0px;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 10rem;
+    max-width: 10rem;
+}
+
+.resultado{
+  color: Black;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #cc0000;
+  border-radius: 10px;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.placar {
+  color: White;
+  font-size: 15px;
+}
